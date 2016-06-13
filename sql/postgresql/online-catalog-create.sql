@@ -9,6 +9,11 @@
 -- product display templates
 -- for more generic use
 
+
+-- this will use a multi-faceted classification system
+-- see https://en.wikipedia.org/wiki/Faceted_classification#Comparision_between_faceted_and_single_hierarchical_classification
+-- and Tags ie essentially using tags to "drill down" to near unqiue choices.
+
 -- create sequence ec_template_id_seq start 2;
 create sequence ecca_template_id_seq start 2;
 
